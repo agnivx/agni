@@ -13,9 +13,12 @@ Skilled in Bitcoin cryptography, smart contract auditing, and blockchain forensi
 Interested in DFIR, threat intel, and post-quantum security.
 <br>
 
-<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="100%">
+#### *hello friend, are you a 1 or a 0?*
 
 </br>
+
+<img src="https://i.pinimg.com/originals/f9/3d/9b/f93d9b0d064ed49442d1a5e2471c14c9.gif" width="100%">
+
 
 :computer: I'm a Security Student & Researcher.
 
