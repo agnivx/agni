@@ -4,13 +4,13 @@
 
 #### I'm a Pre-final year CSE undergrad specializing in Cybersecurity & Forensics. 🤖
 
-Focused on blue team security, compliance, and endpoint protection
+Focused on blue team security, compliance, and endpoint protection.
 
-Proficient in Windows/Linux, scripting, and audit preparation (ISO 27001, NIST)
+Proficient in Windows/Linux, scripting, and audit preparation (ISO 27001, NIST).
 
-Skilled in Bitcoin cryptography, smart contract auditing, and blockchain forensics
+Skilled in Bitcoin cryptography, smart contract auditing, and blockchain forensics.
 
-Interested in Tgreat intel, Crypto DFIR, and post-quantum security
+Interested in Threat intel, Crypto DFIR, and post-quantum security.
 
 *Hacking is NOT a Crime* Advocate
 
