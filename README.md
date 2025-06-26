@@ -29,7 +29,7 @@ Interested in Threat intel, Crypto DFIR, and post-quantum security.
 
 :books: I'm currently learning all about IT Security and Mr. Nakamoto's Security Principles of
 
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#) .
 
 ## Social Networks
 
