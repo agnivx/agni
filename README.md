@@ -2,18 +2,15 @@
 
 ## I am Agniva 🧑🏻‍💻
 
-### I'm a Pre-final year CSE undergrad specializing in Cybersecurity & Forensics. 🤖
+#### I'm a Pre-final year CSE undergrad specializing in Cybersecurity & Forensics. 🤖
 
-Focused on blue team security, compliance, and endpoint protection.
+Blue - Team | SOC & Network Analysis | Blockchain & Web3 Security | Bitcoin ECC (secp256k1) | Threat Intel & Crypto DFIR
 
-Proficient in Windows/Linux, scripting, and audit preparation (ISO 27001, NIST).
+*Hacking is NOT a Crime* Advocate
 
-Skilled in Bitcoin cryptography, smart contract auditing, and blockchain forensics.
-
-Interested in DFIR, threat intel, and post-quantum security.
 <br>
 
-#### *hello friend, are you a 1 or a 0?*
+***hello friend, are you a 1 or a 0?***
 
 </br>
 
