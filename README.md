@@ -39,8 +39,6 @@ Introduction to Cybersecurity
 <br>
 <br>
 
-<br>
-
 #### *hello friend, are you a 1 or a 0?*
 
 <br>
