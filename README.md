@@ -14,11 +14,36 @@ Interested in Threat intel, Crypto DFIR, and post-quantum security.
 
 *Hacking is NOT a Crime* Advocate
 
+
+## Certifications
+
+<img src="https://img.icons8.com/color/48/000000/microsoft.png" width="24"/> 
+
+Microsoft Cybersecurity Analyst Certification  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Atlassian-logo.svg/2000px-Atlassian-logo.svg.png" width="24"/>
+
+Beginner's Guide to Agile in Jira  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Ec_Council_Logo.png" width="24"/>
+
+Deep Web & Cybersecurity
+
+<img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png" width="24"/>
+
+Google Cybersecurity Professional Certification  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cisco_Networking_Academy.svg/2560px-Cisco_Networking_Academy.svg.png" width="24"/>
+
+Introduction to Cybersecurity
+<br>
+<br>
+
 <br>
 
 ***hello friend, are you a 1 or a 0?***
 
-</br>
+<br>
 
 <img src="https://i.pinimg.com/originals/f9/3d/9b/f93d9b0d064ed49442d1a5e2471c14c9.gif" width="100%">
 
